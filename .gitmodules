@@ -1,0 +1,3 @@
+[submodule "Subdirectory"]
+	path = Subdirectory
+	url = https://github.com/sambhav86/Subdirectory.git
